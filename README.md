@@ -1,2 +1,2 @@
-### ☕ 히히 난 카페인이 좋아
-![완전 멋진 나~](https://github-readme-stats.vercel.app/api?username=Upload18cute)
+### TODO: [ ] 자살 안하기 (보류됨)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Upload18cute)](https://github.com/anuraghazra/github-readme-stats)
